@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wordTypes_array">
+        <item>Verb</item>
+        <item>Noun</item>
+        <item>Adjective</item>
+        <item>Phrase</item>
+        <item>Idiom</item>
+        <item>Clause</item>
+        <item>Preposition</item>
+        <item>Conjunction</item>
+        <item>Interjection</item>
+        <item>Pronoun</item>
+        <item>Adverb</item>
+        <item>Prefix</item>
+        <item>Suffix</item>
+    </string-array>
+</resources>
